@@ -24,6 +24,7 @@ author = 'Nasko Grozdanov'
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
 
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
@@ -55,4 +56,3 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 
-master_document = ['index.rst']
