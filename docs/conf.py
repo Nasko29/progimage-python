@@ -55,4 +55,4 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 
-master document = ['index.rst']
+master_document = ['index.rst']
