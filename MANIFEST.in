@@ -1,4 +1,4 @@
 include requirements.txt README.md LICENSE
-recursive-include newspaper *
+recursive-include progimage *
 recursive-exclude * __pycache__
 recursive-exclude * *.py[co]
